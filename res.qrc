@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/40e2fa93.png</file>
+        <file>images/add-server-icon.png</file>
+        <file>images/exit.png</file>
+        <file>images/remove-server-icon.png</file>
+        <file>images/search-server-icon.png</file>
+        <file>images/unlock_animaiton.gif</file>
+        <file>images/ltgrbp_17.jpg</file>
+        <file>images/7lrXjrS.png</file>
+        <file>images/MapMap.png</file>
+        <file>images/Database-Encryption.png</file>
+    </qresource>
+</RCC>
